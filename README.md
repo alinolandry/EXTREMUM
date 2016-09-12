@@ -1,10 +1,13 @@
 # EXTREMUM
 
-                      *********************** AUTHOR **********************************
+                      ***********************ABOUT AUTHOR **********************************
 
 Author : NOUTCHOMWO NKOUAMEN ALAIN.L
+
 Alias : AlinoLandry
+
 Email : alinolandry@gmail.com
+
 Facebook : www.facebook.com/alino.landry
 
 
