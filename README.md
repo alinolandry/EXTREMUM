@@ -34,4 +34,5 @@ extension can be .fr, .com, .biz, etc ...
 in local, you can use : localhost/extremum
 
 login : root
+
 password : root
