@@ -1,9 +1,21 @@
 # EXTREMUM
-EXTREMUM is a complete financial mathematics application. This application will allow you to achieve all your financial mathematical operations. You can calculate the interest, the discount ...
-Version : 1.0
+
+                      *********************** AUTHOR **********************************
+
 Author : NOUTCHOMWO NKOUAMEN ALAIN.L
-Alias : Alino
+Alias : AlinoLandry
+Email : alinolandry@gmail.com
+Facebook : www.facebook.com/alino.landry
+
+
+                        *************************APPLICATION *******************************
+EXTREMUM is a complete financial mathematics application. This application will allow you to achieve all your financial mathematical operations. You can calculate the interest, the discount ...
+
+Version : 1.0
+
 Language : php
+
+Licence : GPL
 
                          ********* INSTALLATION ***********
 Riquirement : Apache seveur, php 3 or higger, Navigator (Mozilla, Chrome, etc...)
