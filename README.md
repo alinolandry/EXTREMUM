@@ -7,9 +7,12 @@ Language : php
 
                          ********* INSTALLATION ***********
 Riquirement : Apache seveur, php 3 or higger, Navigator (Mozilla, Chrome, etc...)
+
 Download and unzip the file to the root of your site (www).
+
 Switch on your server (Wampp, xampp, etc ...)
 Enter url: www.mydomain.extension/extremum/
+
 "mydomain" can be localhost if you representer by local
 extension can be .fr, .com, .biz, etc ...
 
