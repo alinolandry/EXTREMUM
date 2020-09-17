@@ -4,7 +4,7 @@
 
 Author : NOUTCHOMWO NKOUAMEN ALAIN.L
 
-Alias : AlinoLandry
+Alias : AlainLandry
 
 Email : alinolandry@gmail.com
 
