@@ -8,7 +8,7 @@ Alias : AlainLandry
 
 Email : alinolandry@gmail.com
 
-Facebook : www.facebook.com/alino.landry
+
 
 
                         *************************APPLICATION *******************************
